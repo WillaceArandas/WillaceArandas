@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente em me tornar um desenvolvedor.
 - 🌱 Atualmente estou aprendendo JS, React, TypeScript, Next.JS, MySQL e MongoDB.
-- 👯 Procuro colaborar com todos que estã nessa jornada comigo.
+- 👯 Procuro colaborar com todos que estão nessa jornada comigo.
 - 📫 Contate-me pelo Linkedin, ou pelo Discord.
 - 😄 Pronomes: ele/dele.  
 <div align="center">
@@ -23,13 +23,12 @@
   
   <img align="right" height="150" style="border-radius:5px;" a href="https://picasion.com/" img src="https://i.picasion.com/pic92/4ba36dfb802bde35662672491825b735.gif">
 </div>
-  ##
- 
+  
+## 
 <div> 
   <a href="https://www.instagram.com/willacelucena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/updaz8H9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/willace-arandas-1a083a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willacearandas&layout=compact)](https://github.com/willacearandas/github-readme-stats)
   </div>
 
