@@ -23,7 +23,6 @@
   
   <img align="right" height="150" style="border-radius:5px;" a href="https://picasion.com/" img src="https://i.picasion.com/pic92/4ba36dfb802bde35662672491825b735.gif">
 </div>
-  
   ##
  
 <div> 
@@ -31,5 +30,6 @@
  	<a href="https://discord.gg/updaz8H9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/willace-arandas-1a083a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willacearandas&layout=compact)](https://github.com/willacearandas/github-readme-stats)
+  </div>
 
