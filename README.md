@@ -1,6 +1,6 @@
 ## Oi, eu sou o Will! 😊
 - 🔭 Trabalho atualmente em me tornar um desenvolvedor.
-- 🌱 Atualmente estou aprendendo JS, React, TypeScript, Next.JS, MySQL e MongoDB.
+- 🌱 Atualmente estou aprendendo: JS, React, TypeScript, Next.JS, MySQL e MongoDB.
 - 👯 Procuro colaborar com todos que estão nessa jornada comigo.
 - 📫 Contate-me pelo Linkedin, ou pelo Discord.
 - 😄 Pronomes: ele/dele.
