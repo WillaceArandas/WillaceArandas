@@ -5,13 +5,13 @@
 - 📫 Contate-me pelo Linkedin, ou pelo Discord.
 - 😄 Pronomes: ele/dele.
  
-   <div align="left" style="display: inline_block">
+   <div align="center" style="display: inline_block">
   <a href="https://www.instagram.com/willacelucena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.gg/updaz8H9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/willace-arandas-1a083a215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      </div>
      
-  <div align="center">
+  <div align="center" style="display: inline_block">
   <a href="https://github.com/willacearandas">
   <img height="160em" width="450"  src="https://github-readme-stats.vercel.app/api?username=willacearandas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" width="450"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willacearandas&layout=compact&langs_count=7&theme=midnight-purple"/>
